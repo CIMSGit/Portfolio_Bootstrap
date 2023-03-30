@@ -1,4 +1,46 @@
 #alignItems{
     text-align: justify !important;
-    background-color: rgba(0, 0, 0, 0.561);
+    background-color: rgba(0, 0, 0, 0.376);
 }
+
+#copyR{
+    text-align: center !important;
+
+}
+
+footer{
+    padding: 20px !important;
+}
+
+
+
+#sendMessageButton{
+    margin-top: 20px !important;
+}
+
+.form-control{
+    height: 70px !important;
+}
+
+textarea.form-control {
+    height: 241px !important;
+}
+
+/* #contactSec{
+padding-bottom: 100px !important;
+} */
+
+#bgIm{
+    background-image: url(./assets/img/map-image.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: rgb(48, 48, 48);
+
+
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
