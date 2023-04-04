@@ -1,76 +1,71 @@
 #alignItems {
-    text-align: justify !important;
-    background-color: rgba(0, 0, 0, 0.376);
+  text-align: justify !important;
+  background-color: rgba(0, 0, 0, 0.376);
 }
-
 #copyR {
-    text-align: center !important;
-
+  text-align: center !important;
 }
 
 footer {
-    padding: 20px !important;
+  padding: 20px !important;
 }
 
-
-
 #sendMessageButton {
-    margin-top: 20px !important;
+  margin-top: 20px !important;
 }
 
 .form-control {
-    height: 70px !important;
+  height: 70px !important;
 }
 
 textarea.form-control {
-    height: 241px !important;
+  height: 241px !important;
 }
 
-/* #contactSec{
-padding-bottom: 100px !important;
-} */
-
 #bgIm {
-    background-image: url(./assets/img/map-image.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: rgb(48, 48, 48);
-
-
+  background-image: url(./assets/img/map-image.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(48, 48, 48);
 }
 
 #about {
-    background-color: white;
-    color: black;
+  background-color: white;
+  color: black;
 }
 
 body {
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #zoom div:hover img {
-    transform: scale(1.5);
-    transition: transform 0.3s ease-in-out;
+  transform: scale(1.5);
+  transition: transform 0.3s ease-in-out;
 }
 
 #zoom div img {
-    transform: scale(1);
-    transition: transform 0.3s ease-in-out;
+  transform: scale(1);
+  transition: transform 0.3s ease-in-out;
 }
-
 
 .searchInfoX img {
-    height: 200px;
-    width: 350px;
-
+  height: 200px;
+  width: 350px;
 }
-h6{
-    margin: 20px 0px 20px 0px !important;
-    font-size: 15px;
+h6 {
+  margin: 20px 0px 20px 0px !important;
+  font-size: 15px;
 }
 
-#additionalProject{
-    margin-top: 8rem;
-    margin-bottom: 1rem;
+#additionalProject {
+  margin-top: 8rem;
+  margin-bottom: 1rem;
+}
+#cinemaproject-margin {
+  margin-bottom: 10px !important;
+  margin-top: 10px !important;
+}
+.col-md-12 {
+  background-color: rgba(0, 0, 0, 0.376);
 }
